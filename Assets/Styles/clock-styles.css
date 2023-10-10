@@ -49,7 +49,11 @@
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    gap: 50px;
+    gap: 30px;
+}
+
+.clock__time{
+    gap: 65px;
 }
 
 .clock__time div,
